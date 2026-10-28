@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T09:12:38.854Z",
+ "generatedAt": "2026-10-28T12:59:00.076Z",
  "cloudflareRadar": {
   "ok": true,
   "period": "24h",
@@ -7,84 +7,84 @@
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 13.57
+    "value": 13.18
    },
    {
     "code": "US",
     "name": "United States",
-    "value": 12.28
-   },
-   {
-    "code": "SG",
-    "name": "Singapore",
-    "value": 5.2
+    "value": 12.44
    },
    {
     "code": "CL",
     "name": "Chile",
-    "value": 4.78
+    "value": 4.93
+   },
+   {
+    "code": "SG",
+    "name": "Singapore",
+    "value": 4.87
    },
    {
     "code": "PL",
     "name": "Poland",
-    "value": 4.45
+    "value": 4.38
    },
    {
     "code": "RU",
     "name": "Russian Federation",
-    "value": 3.94
-   },
-   {
-    "code": "AR",
-    "name": "Argentina",
-    "value": 3.26
-   },
-   {
-    "code": "MX",
-    "name": "Mexico",
-    "value": 3.12
-   },
-   {
-    "code": "FR",
-    "name": "France",
-    "value": 3.05
+    "value": 3.96
    },
    {
     "code": "BD",
     "name": "Bangladesh",
-    "value": 2.99
+    "value": 3.41
+   },
+   {
+    "code": "AR",
+    "name": "Argentina",
+    "value": 3.23
+   },
+   {
+    "code": "FR",
+    "name": "France",
+    "value": 3.14
+   },
+   {
+    "code": "MX",
+    "name": "Mexico",
+    "value": 3.08
    }
   ],
   "targets": [
    {
     "code": "US",
     "name": "United States",
-    "value": 85.12
+    "value": 83.78
    },
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 6.72
-   },
-   {
-    "code": "IN",
-    "name": "India",
-    "value": 4.03
+    "value": 5.59
    },
    {
     "code": "HK",
     "name": "Hong Kong",
-    "value": 3.18
+    "value": 5.04
+   },
+   {
+    "code": "IN",
+    "name": "India",
+    "value": 4.59
    },
    {
     "code": "DE",
     "name": "Germany",
-    "value": 0.62
+    "value": 0.63
    },
    {
     "code": "CN",
     "name": "China",
-    "value": 0.16
+    "value": 0.13
    },
    {
     "code": "CY",
@@ -97,14 +97,14 @@
     "value": 0.07
    },
    {
+    "code": "AT",
+    "name": "Austria",
+    "value": 0.03
+   },
+   {
     "code": "GB",
     "name": "United Kingdom",
     "value": 0.02
-   },
-   {
-    "code": "TW",
-    "name": "Taiwan",
-    "value": 0.01
    }
   ],
   "uzbekistan": {

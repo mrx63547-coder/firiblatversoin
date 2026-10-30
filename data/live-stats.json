@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T18:55:41.608Z",
+ "generatedAt": "2026-10-30T01:01:13.979Z",
  "cloudflareRadar": {
   "ok": true,
   "period": "24h",
@@ -7,94 +7,94 @@
    {
     "code": "US",
     "name": "United States",
-    "value": 12.63
+    "value": 13.19
    },
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 12.32
-   },
-   {
-    "code": "CL",
-    "name": "Chile",
-    "value": 4.58
-   },
-   {
-    "code": "NL",
-    "name": "Netherlands",
-    "value": 4.5
+    "value": 11.62
    },
    {
     "code": "HK",
     "name": "Hong Kong",
-    "value": 4.46
+    "value": 4.91
+   },
+   {
+    "code": "CL",
+    "name": "Chile",
+    "value": 4.5
+   },
+   {
+    "code": "NL",
+    "name": "Netherlands",
+    "value": 4.25
    },
    {
     "code": "DE",
     "name": "Germany",
-    "value": 3.89
+    "value": 3.69
    },
    {
     "code": "FR",
     "name": "France",
-    "value": 3.47
-   },
-   {
-    "code": "SG",
-    "name": "Singapore",
-    "value": 3.31
+    "value": 3.58
    },
    {
     "code": "BD",
     "name": "Bangladesh",
-    "value": 3.18
+    "value": 3.37
    },
    {
     "code": "RU",
     "name": "Russian Federation",
     "value": 3.03
+   },
+   {
+    "code": "PL",
+    "name": "Poland",
+    "value": 2.84
    }
   ],
   "targets": [
    {
     "code": "US",
     "name": "United States",
-    "value": 86.86
-   },
-   {
-    "code": "BR",
-    "name": "Brazil",
-    "value": 4.6
+    "value": 91.05
    },
    {
     "code": "HK",
     "name": "Hong Kong",
-    "value": 2.83
+    "value": 2.28
+   },
+   {
+    "code": "BR",
+    "name": "Brazil",
+    "value": 1.89
    },
    {
     "code": "DE",
     "name": "Germany",
-    "value": 2.79
+    "value": 1.68
    },
    {
     "code": "CN",
     "name": "China",
-    "value": 1.53
+    "value": 1.22
    },
    {
     "code": "TL",
     "name": "Timor-Leste",
-    "value": 1.01
+    "value": 0.97
    },
    {
     "code": "IN",
     "name": "India",
-    "value": 0.25
+    "value": 0.76
    },
    {
     "code": "SE",
     "name": "Sweden",
-    "value": 0.07
+    "value": 0.08
    },
    {
     "code": "RU",

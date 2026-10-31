@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T06:54:53.337Z",
+ "generatedAt": "2026-10-31T12:52:55.098Z",
  "cloudflareRadar": {
   "ok": true,
   "period": "24h",
@@ -7,84 +7,84 @@
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 13.33
+    "value": 13.65
    },
    {
     "code": "US",
     "name": "United States",
-    "value": 12.45
+    "value": 13.05
    },
    {
     "code": "HK",
     "name": "Hong Kong",
-    "value": 6.49
+    "value": 6.19
    },
    {
     "code": "CL",
     "name": "Chile",
-    "value": 4.56
-   },
-   {
-    "code": "FR",
-    "name": "France",
-    "value": 3.53
+    "value": 4.45
    },
    {
     "code": "RU",
     "name": "Russian Federation",
-    "value": 3.48
-   },
-   {
-    "code": "MX",
-    "name": "Mexico",
-    "value": 3.3
+    "value": 3.67
    },
    {
     "code": "NL",
     "name": "Netherlands",
-    "value": 3.2
+    "value": 3.5
+   },
+   {
+    "code": "FR",
+    "name": "France",
+    "value": 3.32
    },
    {
     "code": "DE",
     "name": "Germany",
-    "value": 3.14
+    "value": 3.2
    },
    {
-    "code": "BD",
-    "name": "Bangladesh",
-    "value": 3.07
+    "code": "MX",
+    "name": "Mexico",
+    "value": 3.04
+   },
+   {
+    "code": "AR",
+    "name": "Argentina",
+    "value": 2.84
    }
   ],
   "targets": [
    {
     "code": "US",
     "name": "United States",
-    "value": 68.37
+    "value": 66.83
    },
    {
     "code": "DE",
     "name": "Germany",
-    "value": 14.53
+    "value": 14.35
    },
    {
     "code": "HK",
     "name": "Hong Kong",
-    "value": 12.21
+    "value": 11.95
    },
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 2.64
+    "value": 3.66
    },
    {
     "code": "IN",
     "name": "India",
-    "value": 1.5
+    "value": 1.6
    },
    {
     "code": "CN",
     "name": "China",
-    "value": 0.64
+    "value": 1.5
    },
    {
     "code": "SE",

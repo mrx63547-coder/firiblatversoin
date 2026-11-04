@@ -1,90 +1,90 @@
 {
- "generatedAt": "2026-11-03T18:56:49.382Z",
+ "generatedAt": "2026-11-04T01:06:40.536Z",
  "cloudflareRadar": {
   "ok": true,
   "period": "24h",
   "origins": [
    {
-    "code": "BR",
-    "name": "Brazil",
-    "value": 14.44
-   },
-   {
     "code": "US",
     "name": "United States",
-    "value": 12.9
+    "value": 13.84
    },
    {
-    "code": "CL",
-    "name": "Chile",
-    "value": 4.52
-   },
-   {
-    "code": "BD",
-    "name": "Bangladesh",
-    "value": 4.01
-   },
-   {
-    "code": "IN",
-    "name": "India",
-    "value": 3.87
-   },
-   {
-    "code": "RU",
-    "name": "Russian Federation",
-    "value": 3.86
+    "code": "BR",
+    "name": "Brazil",
+    "value": 13.49
    },
    {
     "code": "SG",
     "name": "Singapore",
-    "value": 3.82
+    "value": 4.39
+   },
+   {
+    "code": "IN",
+    "name": "India",
+    "value": 4.09
+   },
+   {
+    "code": "CL",
+    "name": "Chile",
+    "value": 4.05
+   },
+   {
+    "code": "RU",
+    "name": "Russian Federation",
+    "value": 3.99
+   },
+   {
+    "code": "BD",
+    "name": "Bangladesh",
+    "value": 3.84
    },
    {
     "code": "FR",
     "name": "France",
-    "value": 3.35
-   },
-   {
-    "code": "HK",
-    "name": "Hong Kong",
-    "value": 3.24
+    "value": 3.72
    },
    {
     "code": "AR",
     "name": "Argentina",
-    "value": 2.97
+    "value": 3.15
+   },
+   {
+    "code": "HK",
+    "name": "Hong Kong",
+    "value": 2.58
    }
   ],
   "targets": [
    {
     "code": "US",
     "name": "United States",
-    "value": 62.46
+    "value": 61.21
    },
    {
     "code": "HK",
     "name": "Hong Kong",
-    "value": 25.99
+    "value": 22.98
    },
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 9.87
+    "value": 13.73
    },
    {
     "code": "IN",
     "name": "India",
-    "value": 1.14
+    "value": 1.64
    },
    {
     "code": "CN",
     "name": "China",
-    "value": 0.26
+    "value": 0.24
    },
    {
     "code": "DE",
     "name": "Germany",
-    "value": 0.17
+    "value": 0.1
    },
    {
     "code": "SE",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T18:59:48.954Z",
+ "generatedAt": "2026-11-05T01:09:11.663Z",
  "cloudflareRadar": {
   "ok": true,
   "period": "24h",
@@ -7,22 +7,22 @@
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 18.16
+    "value": 17.29
    },
    {
     "code": "US",
     "name": "United States",
-    "value": 13.02
+    "value": 12.19
    },
    {
     "code": "RU",
     "name": "Russian Federation",
-    "value": 4.87
+    "value": 5.22
    },
    {
     "code": "CL",
     "name": "Chile",
-    "value": 4.36
+    "value": 4.5
    },
    {
     "code": "SG",
@@ -32,78 +32,78 @@
    {
     "code": "IN",
     "name": "India",
-    "value": 3.85
-   },
-   {
-    "code": "FR",
-    "name": "France",
-    "value": 3.45
-   },
-   {
-    "code": "AR",
-    "name": "Argentina",
-    "value": 3.4
+    "value": 3.94
    },
    {
     "code": "BD",
     "name": "Bangladesh",
-    "value": 3.38
+    "value": 3.53
    },
    {
-    "code": "UA",
-    "name": "Ukraine",
-    "value": 2.56
+    "code": "FR",
+    "name": "France",
+    "value": 3.43
+   },
+   {
+    "code": "AR",
+    "name": "Argentina",
+    "value": 3.36
+   },
+   {
+    "code": "PL",
+    "name": "Poland",
+    "value": 3.01
    }
   ],
   "targets": [
    {
     "code": "US",
     "name": "United States",
-    "value": 52.54
+    "value": 57.71
    },
    {
     "code": "HK",
     "name": "Hong Kong",
-    "value": 32.98
+    "value": 30.04
    },
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 12.51
+    "value": 9.44
    },
    {
     "code": "IN",
     "name": "India",
-    "value": 1.12
+    "value": 1.38
    },
    {
     "code": "CN",
     "name": "China",
-    "value": 0.44
+    "value": 0.54
    },
    {
     "code": "CA",
     "name": "Canada",
-    "value": 0.19
+    "value": 0.48
+   },
+   {
+    "code": "SG",
+    "name": "Singapore",
+    "value": 0.27
    },
    {
     "code": "DE",
     "name": "Germany",
-    "value": 0.1
-   },
-   {
-    "code": "SE",
-    "name": "Sweden",
-    "value": 0.04
+    "value": 0.05
    },
    {
     "code": "AE",
     "name": "United Arab Emirates",
-    "value": 0.03
+    "value": 0.02
    },
    {
-    "code": "KR",
-    "name": "Korea, South",
+    "code": "SE",
+    "name": "Sweden",
     "value": 0.02
    }
   ],

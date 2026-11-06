@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T07:20:06.068Z",
+ "generatedAt": "2026-11-06T13:08:35.372Z",
  "cloudflareRadar": {
   "ok": true,
   "period": "24h",
@@ -7,84 +7,84 @@
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 14.23
+    "value": 13.54
    },
    {
     "code": "US",
     "name": "United States",
-    "value": 13.06
+    "value": 13.42
    },
    {
     "code": "SG",
     "name": "Singapore",
-    "value": 5.01
+    "value": 5.65
    },
    {
     "code": "CL",
     "name": "Chile",
-    "value": 4.87
+    "value": 4.89
    },
    {
     "code": "BD",
     "name": "Bangladesh",
-    "value": 4.65
-   },
-   {
-    "code": "RU",
-    "name": "Russian Federation",
-    "value": 4.61
+    "value": 4.63
    },
    {
     "code": "MX",
     "name": "Mexico",
-    "value": 3.87
+    "value": 4.19
    },
    {
-    "code": "FR",
-    "name": "France",
-    "value": 3.51
+    "code": "RU",
+    "name": "Russian Federation",
+    "value": 3.64
    },
    {
     "code": "IN",
     "name": "India",
-    "value": 3.47
+    "value": 3.57
+   },
+   {
+    "code": "FR",
+    "name": "France",
+    "value": 3.37
    },
    {
     "code": "HK",
     "name": "Hong Kong",
-    "value": 2.71
+    "value": 3.06
    }
   ],
   "targets": [
    {
     "code": "US",
     "name": "United States",
-    "value": 87.9
+    "value": 84.11
    },
    {
     "code": "HK",
     "name": "Hong Kong",
-    "value": 5.74
+    "value": 9.52
    },
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 3.43
+    "value": 3.55
    },
    {
     "code": "IN",
     "name": "India",
-    "value": 1.61
+    "value": 1.45
    },
    {
     "code": "CN",
     "name": "China",
-    "value": 1.05
+    "value": 1.09
    },
    {
-    "code": "AU",
-    "name": "Australia",
-    "value": 0.12
+    "code": "DE",
+    "name": "Germany",
+    "value": 0.13
    },
    {
     "code": "PL",
@@ -92,9 +92,9 @@
     "value": 0.06
    },
    {
-    "code": "DE",
-    "name": "Germany",
-    "value": 0.04
+    "code": "AU",
+    "name": "Australia",
+    "value": 0.05
    },
    {
     "code": "CA",

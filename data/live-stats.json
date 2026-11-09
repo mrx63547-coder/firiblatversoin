@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T01:11:44.587Z",
+ "generatedAt": "2026-11-09T07:30:30.481Z",
  "cloudflareRadar": {
   "ok": true,
   "period": "24h",
@@ -7,84 +7,89 @@
    {
     "code": "US",
     "name": "United States",
-    "value": 14.24
+    "value": 14.44
    },
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 12.49
-   },
-   {
-    "code": "HK",
-    "name": "Hong Kong",
-    "value": 4.75
+    "value": 12.6
    },
    {
     "code": "SG",
     "name": "Singapore",
-    "value": 4.67
+    "value": 4.82
    },
    {
-    "code": "NL",
-    "name": "Netherlands",
-    "value": 3.78
-   },
-   {
-    "code": "DE",
-    "name": "Germany",
-    "value": 3.75
-   },
-   {
-    "code": "FR",
-    "name": "France",
-    "value": 3.68
-   },
-   {
-    "code": "RU",
-    "name": "Russian Federation",
-    "value": 3.67
+    "code": "HK",
+    "name": "Hong Kong",
+    "value": 4.51
    },
    {
     "code": "CL",
     "name": "Chile",
-    "value": 3.62
+    "value": 3.84
+   },
+   {
+    "code": "DE",
+    "name": "Germany",
+    "value": 3.8
+   },
+   {
+    "code": "NL",
+    "name": "Netherlands",
+    "value": 3.71
+   },
+   {
+    "code": "FR",
+    "name": "France",
+    "value": 3.6
+   },
+   {
+    "code": "RU",
+    "name": "Russian Federation",
+    "value": 3.03
    },
    {
     "code": "BD",
     "name": "Bangladesh",
-    "value": 2.74
+    "value": 2.77
    }
   ],
   "targets": [
    {
     "code": "US",
     "name": "United States",
-    "value": 74.39
+    "value": 79.04
    },
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 16.02
+    "value": 14.24
    },
    {
     "code": "IN",
     "name": "India",
-    "value": 4.52
+    "value": 4.17
    },
    {
     "code": "HK",
     "name": "Hong Kong",
-    "value": 4.1
-   },
-   {
-    "code": "CA",
-    "name": "Canada",
-    "value": 0.58
+    "value": 2.86
    },
    {
     "code": "DE",
     "name": "Germany",
-    "value": 0.26
+    "value": 0.37
+   },
+   {
+    "code": "CH",
+    "name": "Switzerland",
+    "value": 0.37
+   },
+   {
+    "code": "CA",
+    "name": "Canada",
+    "value": 0.34
    },
    {
     "code": "SG",
@@ -97,14 +102,9 @@
     "value": 0.05
    },
    {
-    "code": "TW",
-    "name": "Taiwan",
-    "value": 0.01
-   },
-   {
     "code": "CY",
     "name": "Cyprus",
-    "value": 0.01
+    "value": 0.02
    }
   ],
   "uzbekistan": {

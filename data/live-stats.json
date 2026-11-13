@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T01:13:47.563Z",
+ "generatedAt": "2026-11-13T07:21:05.937Z",
  "cloudflareRadar": {
   "ok": true,
   "period": "24h",
@@ -7,104 +7,104 @@
    {
     "code": "IN",
     "name": "India",
-    "value": 22.44
+    "value": 33.39
    },
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 14.98
+    "value": 17.65
    },
    {
     "code": "US",
     "name": "United States",
-    "value": 8.45
-   },
-   {
-    "code": "SG",
-    "name": "Singapore",
-    "value": 4.26
-   },
-   {
-    "code": "CL",
-    "name": "Chile",
-    "value": 3.04
+    "value": 6.8
    },
    {
     "code": "PL",
     "name": "Poland",
-    "value": 2.83
+    "value": 3.57
    },
    {
-    "code": "FR",
-    "name": "France",
-    "value": 2.7
+    "code": "SG",
+    "name": "Singapore",
+    "value": 3.36
    },
    {
-    "code": "NL",
-    "name": "Netherlands",
-    "value": 2.68
+    "code": "CL",
+    "name": "Chile",
+    "value": 2.53
    },
    {
     "code": "MX",
     "name": "Mexico",
-    "value": 2.64
+    "value": 2.04
    },
    {
     "code": "BD",
     "name": "Bangladesh",
-    "value": 2.5
+    "value": 2.03
+   },
+   {
+    "code": "FR",
+    "name": "France",
+    "value": 1.88
+   },
+   {
+    "code": "HK",
+    "name": "Hong Kong",
+    "value": 1.77
    }
   ],
   "targets": [
    {
     "code": "US",
     "name": "United States",
-    "value": 85.08
-   },
-   {
-    "code": "VN",
-    "name": "Vietnam",
-    "value": 5.51
+    "value": 86.4
    },
    {
     "code": "HK",
     "name": "Hong Kong",
-    "value": 5.18
+    "value": 5.2
    },
    {
-    "code": "DE",
-    "name": "Germany",
-    "value": 1.68
+    "code": "VN",
+    "name": "Vietnam",
+    "value": 4.67
    },
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 1.21
+    "value": 1.67
+   },
+   {
+    "code": "DE",
+    "name": "Germany",
+    "value": 1.2
    },
    {
     "code": "IN",
     "name": "India",
-    "value": 0.53
+    "value": 0.37
    },
    {
     "code": "AE",
     "name": "United Arab Emirates",
-    "value": 0.21
+    "value": 0.15
    },
    {
     "code": "SG",
     "name": "Singapore",
-    "value": 0.16
-   },
-   {
-    "code": "CA",
-    "name": "Canada",
-    "value": 0.16
+    "value": 0.11
    },
    {
     "code": "FI",
     "name": "Finland",
-    "value": 0.12
+    "value": 0.09
+   },
+   {
+    "code": "CN",
+    "name": "China",
+    "value": 0.06
    }
   ],
   "uzbekistan": {

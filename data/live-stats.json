@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T12:55:55.046Z",
+ "generatedAt": "2026-11-14T18:48:36.435Z",
  "cloudflareRadar": {
   "ok": true,
   "period": "24h",
@@ -7,104 +7,104 @@
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 16.8
-   },
-   {
-    "code": "IN",
-    "name": "India",
-    "value": 13.85
+    "value": 15.95
    },
    {
     "code": "US",
     "name": "United States",
-    "value": 12.14
+    "value": 13.24
+   },
+   {
+    "code": "IN",
+    "name": "India",
+    "value": 11.57
    },
    {
     "code": "SG",
     "name": "Singapore",
-    "value": 4.15
+    "value": 4.78
    },
    {
     "code": "PL",
     "name": "Poland",
-    "value": 3.98
-   },
-   {
-    "code": "HK",
-    "name": "Hong Kong",
-    "value": 2.96
-   },
-   {
-    "code": "FR",
-    "name": "France",
-    "value": 2.72
+    "value": 4.06
    },
    {
     "code": "CL",
     "name": "Chile",
-    "value": 2.66
+    "value": 3.06
+   },
+   {
+    "code": "FR",
+    "name": "France",
+    "value": 2.74
+   },
+   {
+    "code": "HK",
+    "name": "Hong Kong",
+    "value": 2.59
    },
    {
     "code": "DE",
     "name": "Germany",
-    "value": 2.62
+    "value": 2.35
    },
    {
     "code": "MX",
     "name": "Mexico",
-    "value": 2.1
+    "value": 2.34
    }
   ],
   "targets": [
    {
     "code": "US",
     "name": "United States",
-    "value": 62.27
+    "value": 64.58
    },
    {
     "code": "HK",
     "name": "Hong Kong",
-    "value": 26.27
+    "value": 23.9
    },
    {
     "code": "CN",
     "name": "China",
-    "value": 6.03
+    "value": 6.47
    },
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 2.48
-   },
-   {
-    "code": "DE",
-    "name": "Germany",
-    "value": 1.25
+    "value": 2.63
    },
    {
     "code": "IN",
     "name": "India",
-    "value": 1.12
+    "value": 1.17
+   },
+   {
+    "code": "DE",
+    "name": "Germany",
+    "value": 0.72
    },
    {
     "code": "TR",
     "name": "Turkey",
-    "value": 0.39
-   },
-   {
-    "code": "CA",
-    "name": "Canada",
-    "value": 0.08
+    "value": 0.42
    },
    {
     "code": "KR",
     "name": "Korea, South",
-    "value": 0.04
+    "value": 0.05
    },
    {
-    "code": "JP",
-    "name": "Japan",
-    "value": 0.02
+    "code": "IL",
+    "name": "Israel",
+    "value": 0.01
+   },
+   {
+    "code": "AU",
+    "name": "Australia",
+    "value": 0.01
    }
   ],
   "uzbekistan": {

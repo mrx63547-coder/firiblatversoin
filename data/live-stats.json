@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T18:50:22.874Z",
+ "generatedAt": "2026-11-16T01:28:43.248Z",
  "cloudflareRadar": {
   "ok": true,
   "period": "24h",
@@ -7,89 +7,89 @@
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 16.14
+    "value": 15.23
    },
    {
     "code": "US",
     "name": "United States",
-    "value": 10.56
+    "value": 12.07
    },
    {
     "code": "IN",
     "name": "India",
-    "value": 8.85
+    "value": 7.55
    },
    {
     "code": "SG",
     "name": "Singapore",
-    "value": 5.11
+    "value": 5.16
    },
    {
     "code": "CL",
     "name": "Chile",
-    "value": 4.91
-   },
-   {
-    "code": "MX",
-    "name": "Mexico",
-    "value": 3.91
+    "value": 4.79
    },
    {
     "code": "BD",
     "name": "Bangladesh",
-    "value": 3.9
+    "value": 3.86
+   },
+   {
+    "code": "MX",
+    "name": "Mexico",
+    "value": 3.61
    },
    {
     "code": "PL",
     "name": "Poland",
-    "value": 3.74
-   },
-   {
-    "code": "FR",
-    "name": "France",
-    "value": 3.08
+    "value": 3.14
    },
    {
     "code": "UA",
     "name": "Ukraine",
-    "value": 2.85
+    "value": 2.88
+   },
+   {
+    "code": "FR",
+    "name": "France",
+    "value": 2.76
    }
   ],
   "targets": [
    {
     "code": "US",
     "name": "United States",
-    "value": 88.61
+    "value": 79.63
    },
    {
     "code": "HK",
     "name": "Hong Kong",
-    "value": 4.59
+    "value": 12.99
    },
    {
     "code": "KR",
     "name": "Korea, South",
-    "value": 2.67
-   },
-   {
-    "code": "DE",
-    "name": "Germany",
-    "value": 1.57
+    "value": 2.68
    },
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 1.36
+    "value": 1.62
    },
    {
     "code": "IN",
     "name": "India",
-    "value": 0.53
+    "value": 1.33
+   },
+   {
+    "code": "DE",
+    "name": "Germany",
+    "value": 1.04
    },
    {
     "code": "SE",
     "name": "Sweden",
-    "value": 0.48
+    "value": 0.49
    },
    {
     "code": "CN",
@@ -102,9 +102,9 @@
     "value": 0.04
    },
    {
-    "code": "NG",
-    "name": "Nigeria",
-    "value": 0.01
+    "code": "GB",
+    "name": "United Kingdom",
+    "value": 0.03
    }
   ],
   "uzbekistan": {

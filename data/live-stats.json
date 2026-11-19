@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T01:17:39.525Z",
+ "generatedAt": "2026-11-19T07:22:43.612Z",
  "cloudflareRadar": {
   "ok": true,
   "period": "24h",
@@ -7,89 +7,89 @@
    {
     "code": "US",
     "name": "United States",
-    "value": 16.79
+    "value": 15.68
    },
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 12.01
+    "value": 14.24
    },
    {
     "code": "IN",
     "name": "India",
-    "value": 5.26
-   },
-   {
-    "code": "NL",
-    "name": "Netherlands",
-    "value": 4.21
-   },
-   {
-    "code": "DE",
-    "name": "Germany",
-    "value": 3.98
-   },
-   {
-    "code": "SG",
-    "name": "Singapore",
-    "value": 3.68
+    "value": 4.4
    },
    {
     "code": "CL",
     "name": "Chile",
-    "value": 3.47
+    "value": 3.91
+   },
+   {
+    "code": "SG",
+    "name": "Singapore",
+    "value": 3.77
+   },
+   {
+    "code": "DE",
+    "name": "Germany",
+    "value": 3.6
    },
    {
     "code": "FR",
     "name": "France",
-    "value": 3.33
+    "value": 3.44
+   },
+   {
+    "code": "NL",
+    "name": "Netherlands",
+    "value": 3.21
    },
    {
     "code": "BD",
     "name": "Bangladesh",
-    "value": 2.71
+    "value": 2.84
    },
    {
-    "code": "GB",
-    "name": "United Kingdom",
-    "value": 2.67
+    "code": "MX",
+    "name": "Mexico",
+    "value": 2.64
    }
   ],
   "targets": [
    {
     "code": "US",
     "name": "United States",
-    "value": 76.6
+    "value": 82.86
    },
    {
     "code": "HK",
     "name": "Hong Kong",
-    "value": 20.07
-   },
-   {
-    "code": "CY",
-    "name": "Cyprus",
-    "value": 1.59
+    "value": 14.13
    },
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 0.97
+    "value": 2.16
    },
    {
     "code": "CN",
     "name": "China",
-    "value": 0.48
+    "value": 0.37
+   },
+   {
+    "code": "CY",
+    "name": "Cyprus",
+    "value": 0.23
    },
    {
     "code": "IN",
     "name": "India",
-    "value": 0.16
+    "value": 0.14
    },
    {
     "code": "KR",
     "name": "Korea, South",
-    "value": 0.05
+    "value": 0.04
    },
    {
     "code": "NG",

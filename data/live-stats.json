@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T07:24:05.680Z",
+ "generatedAt": "2026-11-20T13:17:33.391Z",
  "cloudflareRadar": {
   "ok": true,
   "period": "24h",
@@ -7,106 +7,55 @@
    {
     "code": "US",
     "name": "United States",
-    "value": 18.2
+    "value": 19.18
    },
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 12.58
+    "value": 12.04
    },
    {
     "code": "HK",
     "name": "Hong Kong",
-    "value": 4.92
+    "value": 6.49
    },
    {
     "code": "DE",
     "name": "Germany",
-    "value": 4.66
+    "value": 4.37
    },
    {
     "code": "UA",
     "name": "Ukraine",
-    "value": 3.72
+    "value": 3.87
    },
    {
     "code": "SG",
     "name": "Singapore",
-    "value": 3.48
+    "value": 3.38
    },
    {
     "code": "BG",
     "name": "Bulgaria",
-    "value": 2.89
+    "value": 3.2
+   },
+   {
+    "code": "BD",
+    "name": "Bangladesh",
+    "value": 2.72
    },
    {
     "code": "CL",
     "name": "Chile",
-    "value": 2.82
-   },
-   {
-    "code": "IN",
-    "name": "India",
-    "value": 2.78
+    "value": 2.55
    },
    {
     "code": "FR",
     "name": "France",
-    "value": 2.77
+    "value": 2.5
    }
   ],
-  "targets": [
-   {
-    "code": "US",
-    "name": "United States",
-    "value": 52.12
-   },
-   {
-    "code": "HK",
-    "name": "Hong Kong",
-    "value": 37.75
-   },
-   {
-    "code": "FI",
-    "name": "Finland",
-    "value": 8.2
-   },
-   {
-    "code": "CN",
-    "name": "China",
-    "value": 0.63
-   },
-   {
-    "code": "BR",
-    "name": "Brazil",
-    "value": 0.56
-   },
-   {
-    "code": "NG",
-    "name": "Nigeria",
-    "value": 0.42
-   },
-   {
-    "code": "KR",
-    "name": "Korea, South",
-    "value": 0.22
-   },
-   {
-    "code": "IN",
-    "name": "India",
-    "value": 0.05
-   },
-   {
-    "code": "MV",
-    "name": "Maldives",
-    "value": 0.01
-   },
-   {
-    "code": "TW",
-    "name": "Taiwan",
-    "value": 0.01
-   }
-  ],
+  "targets": [],
   "uzbekistan": {
    "asTarget": null,
    "asOrigin": null

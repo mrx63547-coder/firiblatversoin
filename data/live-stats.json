@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T13:17:33.391Z",
+ "generatedAt": "2026-11-20T19:04:10.709Z",
  "cloudflareRadar": {
   "ok": true,
   "period": "24h",
@@ -7,55 +7,106 @@
    {
     "code": "US",
     "name": "United States",
-    "value": 19.18
+    "value": 20.96
    },
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 12.04
+    "value": 12.65
    },
    {
     "code": "HK",
     "name": "Hong Kong",
-    "value": 6.49
-   },
-   {
-    "code": "DE",
-    "name": "Germany",
-    "value": 4.37
+    "value": 5.91
    },
    {
     "code": "UA",
     "name": "Ukraine",
-    "value": 3.87
-   },
-   {
-    "code": "SG",
-    "name": "Singapore",
-    "value": 3.38
-   },
-   {
-    "code": "BG",
-    "name": "Bulgaria",
-    "value": 3.2
+    "value": 4.14
    },
    {
     "code": "BD",
     "name": "Bangladesh",
-    "value": 2.72
+    "value": 3.8
+   },
+   {
+    "code": "SG",
+    "name": "Singapore",
+    "value": 3.66
    },
    {
     "code": "CL",
     "name": "Chile",
-    "value": 2.55
+    "value": 3.04
    },
    {
-    "code": "FR",
-    "name": "France",
-    "value": 2.5
+    "code": "RU",
+    "name": "Russian Federation",
+    "value": 2.76
+   },
+   {
+    "code": "BG",
+    "name": "Bulgaria",
+    "value": 2.72
+   },
+   {
+    "code": "IN",
+    "name": "India",
+    "value": 2.67
    }
   ],
-  "targets": [],
+  "targets": [
+   {
+    "code": "US",
+    "name": "United States",
+    "value": 52.3
+   },
+   {
+    "code": "FI",
+    "name": "Finland",
+    "value": 16.74
+   },
+   {
+    "code": "HK",
+    "name": "Hong Kong",
+    "value": 11.9
+   },
+   {
+    "code": "CN",
+    "name": "China",
+    "value": 11.43
+   },
+   {
+    "code": "BR",
+    "name": "Brazil",
+    "value": 3.55
+   },
+   {
+    "code": "IN",
+    "name": "India",
+    "value": 2.72
+   },
+   {
+    "code": "NG",
+    "name": "Nigeria",
+    "value": 1.02
+   },
+   {
+    "code": "CA",
+    "name": "Canada",
+    "value": 0.24
+   },
+   {
+    "code": "KR",
+    "name": "Korea, South",
+    "value": 0.04
+   },
+   {
+    "code": "DE",
+    "name": "Germany",
+    "value": 0.02
+   }
+  ],
   "uzbekistan": {
    "asTarget": null,
    "asOrigin": null

@@ -1,109 +1,109 @@
 {
- "generatedAt": "2026-11-23T23:49:47.384Z",
+ "generatedAt": "2026-11-24T09:48:36.712Z",
  "cloudflareRadar": {
   "ok": true,
   "period": "24h",
   "origins": [
    {
-    "code": "BR",
-    "name": "Brazil",
-    "value": 17.39
-   },
-   {
     "code": "US",
     "name": "United States",
-    "value": 16.26
+    "value": 20.85
+   },
+   {
+    "code": "BR",
+    "name": "Brazil",
+    "value": 15.02
    },
    {
     "code": "RU",
     "name": "Russian Federation",
-    "value": 4.59
-   },
-   {
-    "code": "SG",
-    "name": "Singapore",
-    "value": 3.62
-   },
-   {
-    "code": "IN",
-    "name": "India",
-    "value": 3.47
-   },
-   {
-    "code": "HK",
-    "name": "Hong Kong",
-    "value": 3.18
+    "value": 4.71
    },
    {
     "code": "GB",
     "name": "United Kingdom",
+    "value": 3.77
+   },
+   {
+    "code": "SG",
+    "name": "Singapore",
+    "value": 3.47
+   },
+   {
+    "code": "TW",
+    "name": "Taiwan",
+    "value": 3.17
+   },
+   {
+    "code": "HK",
+    "name": "Hong Kong",
     "value": 3.08
+   },
+   {
+    "code": "IN",
+    "name": "India",
+    "value": 2.87
    },
    {
     "code": "CL",
     "name": "Chile",
-    "value": 2.94
-   },
-   {
-    "code": "CO",
-    "name": "Colombia",
-    "value": 2.75
+    "value": 2.72
    },
    {
     "code": "AR",
     "name": "Argentina",
-    "value": 2.67
+    "value": 2.52
    }
   ],
   "targets": [
    {
     "code": "HK",
     "name": "Hong Kong",
-    "value": 60.29
+    "value": 57.92
    },
    {
     "code": "US",
     "name": "United States",
-    "value": 25.91
+    "value": 25.32
    },
    {
     "code": "TW",
     "name": "Taiwan",
-    "value": 8.48
-   },
-   {
-    "code": "IN",
-    "name": "India",
-    "value": 2.25
-   },
-   {
-    "code": "BR",
-    "name": "Brazil",
-    "value": 1.62
-   },
-   {
-    "code": "NG",
-    "name": "Nigeria",
-    "value": 1.12
+    "value": 8.52
    },
    {
     "code": "FI",
     "name": "Finland",
-    "value": 0.18
+    "value": 4.36
+   },
+   {
+    "code": "IN",
+    "name": "India",
+    "value": 2.48
+   },
+   {
+    "code": "NG",
+    "name": "Nigeria",
+    "value": 1.1
    },
    {
     "code": "CN",
     "name": "China",
-    "value": 0.06
+    "value": 0.1
+   },
+   {
+    "code": "GB",
+    "name": "United Kingdom",
+    "value": 0.1
+   },
+   {
+    "code": "BR",
+    "name": "Brazil",
+    "value": 0.04
    },
    {
     "code": "DE",
     "name": "Germany",
-    "value": 0.03
-   },
-   {
-    "code": "MV",
-    "name": "Maldives",
     "value": 0.03
    }
   ],

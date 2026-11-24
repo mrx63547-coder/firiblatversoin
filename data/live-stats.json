@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T09:48:36.712Z",
+ "generatedAt": "2026-11-24T22:21:37.550Z",
  "cloudflareRadar": {
   "ok": true,
   "period": "24h",
@@ -7,104 +7,104 @@
    {
     "code": "US",
     "name": "United States",
-    "value": 20.85
+    "value": 27.17
    },
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 15.02
-   },
-   {
-    "code": "RU",
-    "name": "Russian Federation",
-    "value": 4.71
-   },
-   {
-    "code": "GB",
-    "name": "United Kingdom",
-    "value": 3.77
+    "value": 12.2
    },
    {
     "code": "SG",
     "name": "Singapore",
-    "value": 3.47
+    "value": 4.34
    },
    {
-    "code": "TW",
-    "name": "Taiwan",
-    "value": 3.17
+    "code": "RU",
+    "name": "Russian Federation",
+    "value": 3.64
    },
    {
-    "code": "HK",
-    "name": "Hong Kong",
-    "value": 3.08
-   },
-   {
-    "code": "IN",
-    "name": "India",
-    "value": 2.87
+    "code": "BD",
+    "name": "Bangladesh",
+    "value": 3.18
    },
    {
     "code": "CL",
     "name": "Chile",
-    "value": 2.72
-   },
-   {
-    "code": "AR",
-    "name": "Argentina",
-    "value": 2.52
-   }
-  ],
-  "targets": [
-   {
-    "code": "HK",
-    "name": "Hong Kong",
-    "value": 57.92
-   },
-   {
-    "code": "US",
-    "name": "United States",
-    "value": 25.32
-   },
-   {
-    "code": "TW",
-    "name": "Taiwan",
-    "value": 8.52
-   },
-   {
-    "code": "FI",
-    "name": "Finland",
-    "value": 4.36
+    "value": 3.17
    },
    {
     "code": "IN",
     "name": "India",
-    "value": 2.48
+    "value": 3.09
    },
    {
-    "code": "NG",
-    "name": "Nigeria",
-    "value": 1.1
-   },
-   {
-    "code": "CN",
-    "name": "China",
-    "value": 0.1
+    "code": "FR",
+    "name": "France",
+    "value": 2.46
    },
    {
     "code": "GB",
     "name": "United Kingdom",
-    "value": 0.1
-   },
-   {
-    "code": "BR",
-    "name": "Brazil",
-    "value": 0.04
+    "value": 2.43
    },
    {
     "code": "DE",
     "name": "Germany",
-    "value": 0.03
+    "value": 2.35
+   }
+  ],
+  "targets": [
+   {
+    "code": "US",
+    "name": "United States",
+    "value": 59.26
+   },
+   {
+    "code": "FI",
+    "name": "Finland",
+    "value": 20.03
+   },
+   {
+    "code": "HK",
+    "name": "Hong Kong",
+    "value": 18.25
+   },
+   {
+    "code": "IN",
+    "name": "India",
+    "value": 1.37
+   },
+   {
+    "code": "CN",
+    "name": "China",
+    "value": 0.36
+   },
+   {
+    "code": "GB",
+    "name": "United Kingdom",
+    "value": 0.21
+   },
+   {
+    "code": "CA",
+    "name": "Canada",
+    "value": 0.19
+   },
+   {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "value": 0.15
+   },
+   {
+    "code": "DE",
+    "name": "Germany",
+    "value": 0.07
+   },
+   {
+    "code": "BR",
+    "name": "Brazil",
+    "value": 0.07
    }
   ],
   "uzbekistan": {

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T22:21:37.550Z",
+ "generatedAt": "2026-11-25T08:24:38.712Z",
  "cloudflareRadar": {
   "ok": true,
   "period": "24h",
@@ -7,84 +7,84 @@
    {
     "code": "US",
     "name": "United States",
-    "value": 27.17
+    "value": 27.13
    },
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 12.2
+    "value": 11.81
    },
    {
     "code": "SG",
     "name": "Singapore",
-    "value": 4.34
+    "value": 4.36
    },
    {
     "code": "RU",
     "name": "Russian Federation",
-    "value": 3.64
-   },
-   {
-    "code": "BD",
-    "name": "Bangladesh",
-    "value": 3.18
+    "value": 3.49
    },
    {
     "code": "CL",
     "name": "Chile",
-    "value": 3.17
+    "value": 3.28
    },
    {
-    "code": "IN",
-    "name": "India",
-    "value": 3.09
+    "code": "BD",
+    "name": "Bangladesh",
+    "value": 3.21
    },
    {
     "code": "FR",
     "name": "France",
-    "value": 2.46
+    "value": 2.78
    },
    {
-    "code": "GB",
-    "name": "United Kingdom",
-    "value": 2.43
+    "code": "IN",
+    "name": "India",
+    "value": 2.64
+   },
+   {
+    "code": "MX",
+    "name": "Mexico",
+    "value": 2.63
    },
    {
     "code": "DE",
     "name": "Germany",
-    "value": 2.35
+    "value": 2.55
    }
   ],
   "targets": [
    {
     "code": "US",
     "name": "United States",
-    "value": 59.26
+    "value": 62.85
    },
    {
     "code": "FI",
     "name": "Finland",
-    "value": 20.03
+    "value": 20.44
    },
    {
     "code": "HK",
     "name": "Hong Kong",
-    "value": 18.25
+    "value": 13.56
    },
    {
     "code": "IN",
     "name": "India",
-    "value": 1.37
+    "value": 1.68
+   },
+   {
+    "code": "BR",
+    "name": "Brazil",
+    "value": 0.8
    },
    {
     "code": "CN",
     "name": "China",
-    "value": 0.36
-   },
-   {
-    "code": "GB",
-    "name": "United Kingdom",
-    "value": 0.21
+    "value": 0.28
    },
    {
     "code": "CA",
@@ -97,14 +97,14 @@
     "value": 0.15
    },
    {
-    "code": "DE",
-    "name": "Germany",
-    "value": 0.07
+    "code": "TW",
+    "name": "Taiwan",
+    "value": 0.01
    },
    {
-    "code": "BR",
-    "name": "Brazil",
-    "value": 0.07
+    "code": "GB",
+    "name": "United Kingdom",
+    "value": 0.01
    }
   ],
   "uzbekistan": {

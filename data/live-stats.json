@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T08:08:59.987Z",
+ "generatedAt": "2026-11-26T21:26:48.773Z",
  "cloudflareRadar": {
   "ok": true,
   "period": "24h",
@@ -7,104 +7,104 @@
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 17.58
+    "value": 15.39
    },
    {
     "code": "US",
     "name": "United States",
-    "value": 13.36
+    "value": 14.97
    },
    {
     "code": "RU",
     "name": "Russian Federation",
-    "value": 4.82
-   },
-   {
-    "code": "IN",
-    "name": "India",
-    "value": 4.58
-   },
-   {
-    "code": "UA",
-    "name": "Ukraine",
-    "value": 3.53
-   },
-   {
-    "code": "BD",
-    "name": "Bangladesh",
-    "value": 3.42
+    "value": 4.9
    },
    {
     "code": "SG",
     "name": "Singapore",
-    "value": 3.38
+    "value": 3.84
+   },
+   {
+    "code": "IN",
+    "name": "India",
+    "value": 3.25
+   },
+   {
+    "code": "BD",
+    "name": "Bangladesh",
+    "value": 3.06
+   },
+   {
+    "code": "UA",
+    "name": "Ukraine",
+    "value": 3.05
    },
    {
     "code": "CO",
     "name": "Colombia",
-    "value": 3.28
+    "value": 2.83
    },
    {
     "code": "CL",
     "name": "Chile",
-    "value": 2.71
+    "value": 2.66
    },
    {
-    "code": "FR",
-    "name": "France",
-    "value": 2.62
+    "code": "HK",
+    "name": "Hong Kong",
+    "value": 2.49
    }
   ],
   "targets": [
    {
     "code": "CY",
     "name": "Cyprus",
-    "value": 61.49
-   },
-   {
-    "code": "US",
-    "name": "United States",
-    "value": 17.81
+    "value": 40.21
    },
    {
     "code": "HK",
     "name": "Hong Kong",
-    "value": 14.15
+    "value": 35.65
+   },
+   {
+    "code": "US",
+    "name": "United States",
+    "value": 18.65
    },
    {
     "code": "BR",
     "name": "Brazil",
-    "value": 2.71
-   },
-   {
-    "code": "FI",
-    "name": "Finland",
-    "value": 2.24
+    "value": 3.56
    },
    {
     "code": "IN",
     "name": "India",
-    "value": 1.11
+    "value": 1.17
    },
    {
-    "code": "MY",
-    "name": "Malaysia",
-    "value": 0.18
+    "code": "LV",
+    "name": "Latvia",
+    "value": 0.45
    },
    {
-    "code": "PH",
-    "name": "Philippines",
-    "value": 0.11
+    "code": "TW",
+    "name": "Taiwan",
+    "value": 0.19
    },
    {
     "code": "CN",
     "name": "China",
-    "value": 0.09
+    "value": 0.04
    },
    {
-    "code": "KR",
-    "name": "Korea, South",
-    "value": 0.06
+    "code": "CA",
+    "name": "Canada",
+    "value": 0.04
+   },
+   {
+    "code": "DE",
+    "name": "Germany",
+    "value": 0.02
    }
   ],
   "uzbekistan": {
